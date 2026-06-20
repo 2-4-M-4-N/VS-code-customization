@@ -26,6 +26,14 @@
   },
   "editor.tokenColorCustomizations": {
     "comments": "#616a70",
+    "textMateRules": [
+        {
+            "scope": "entity.name.tag",
+            "settings": {
+                "foreground": "#38ab2c" 
+            }
+        }
+    ]
   },
   "editor.linkedEditing": true,
   "editor.bracketPairColorization.enabled": true,
@@ -51,7 +59,7 @@
   "workbench.colorTheme": "Abyss",
   "workbench.editor.enablePreview": false,
   "workbench.colorCustomizations": {
-    "editor.foreground": "#b77b6e"
+    "editor.foreground": "#c5c7c3"
 }
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "terminal.integrated.fontSize": 20,
@@ -76,8 +84,7 @@
   // Enable Emmet support for JSX
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
-
-
   },
 }
+
 ```
