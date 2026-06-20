@@ -84,7 +84,7 @@
   // Enable Emmet support for JSX
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
-  },
+  }
 }
 
 ```
