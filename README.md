@@ -10,6 +10,8 @@
   "editor.formatOnPaste": true,
   "editor.mouseWheelZoom": true,
   "terminal.integrated.mouseWheelZoom": true
+   "files.autoSave": "afterDelay",
+   "files.autoSaveDelay": 100,
   "editor.formatOnType": true,
   "workbench.colorCustomizations": {
     "editorGroupHeader.tabsBackground": "#2c2c54",
@@ -84,7 +86,7 @@
   // Enable Emmet support for JSX
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
-  }
+  },
 }
 
 ```
