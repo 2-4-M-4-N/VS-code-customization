@@ -87,6 +87,8 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
   },
+  // Path
+  "window.title": "${activeEditorLong}" 
 }
 
 ```
